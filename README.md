@@ -1,2 +1,2 @@
 # JMeterCrawlSitemap
- A simple JMeter script to crawl your site using the sitemap useful for tuning cache settings
+ A simple JMeter script to crawl your Sitecore site or any site using the sitemap. This is useful when tuning cache settings.
